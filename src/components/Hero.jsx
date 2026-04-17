@@ -85,7 +85,7 @@ export default function Hero() {
         ))}
       </div>
       <div className="hero-cta">
-        <a href="#contact" className="btn btn-filled" onClick={(e) => scrollTo(e, '#contact')}>
+        <a href="#contact" className="btn" onClick={(e) => scrollTo(e, '#contact')}>
           Get In Touch
         </a>
         <a href="#experience" className="btn" onClick={(e) => scrollTo(e, '#experience')}>

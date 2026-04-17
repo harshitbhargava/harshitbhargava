@@ -12,7 +12,7 @@ const terminalLines = [
   { type: 'prompt', text: '$ cat harshit.json' },
   { type: 'blank', text: '' },
   { type: 'output', text: '{' },
-  { type: 'key', key: '  "role"', value: '"Senior Backend Engineer"' },
+  { type: 'key', key: '  "role"', value: '"Senior Software Engineer"' },
   { type: 'key', key: '  "company"', value: '"PayPal"' },
   { type: 'key', key: '  "experience"', value: '"6+ years"' },
   { type: 'key', key: '  "passion"', value: '"AI × Distributed Systems × Security"' },
@@ -75,7 +75,7 @@ export default function Hero() {
         <span className="muted">.</span>
       </h1>
       <p className="hero-subtitle">
-        Senior Backend Engineer crafting <strong>scalable systems</strong>,{' '}
+        Senior Software Engineer crafting <strong>scalable systems</strong>,{' '}
         <strong>AI-powered platforms</strong>, and{' '}
         <strong>high-throughput payment infrastructure</strong> at PayPal.
       </p>

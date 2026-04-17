@@ -67,7 +67,7 @@ export default function About() {
       </div>
       <div className="about-text reveal">
         <p>
-          I'm a Senior Software Software Engineer with <strong>6+ years</strong> of experience building{' '}
+          I'm a Senior Software Engineer with <strong>6+ years</strong> of experience building{' '}
           <span className="highlight">scalable, data-intensive applications</span> and{' '}
           <span className="highlight">AI-powered platforms</span>. Currently at <strong>PayPal</strong>, I
           architect MCP-based AI services and intelligent automation systems that process millions of
